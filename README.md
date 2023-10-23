@@ -1,6 +1,6 @@
 # About Me:
 
-My name is Daniel Rocha Alvarenga, I'm a 16 years old system development student. I'm currently focused on learning how to construct neural networks and develop my skills in this area.
+My name is Daniel R. Alvarenga, I'm a 16 years old system development student. I'm currently focused on learning how to construct neural networks and develop my skills in this area.
 
 - 📫 You can contact me through my email, danielralvs@proton.me or via my GitHub profile Daniel-Alvarenga.
 
