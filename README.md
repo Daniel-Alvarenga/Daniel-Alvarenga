@@ -10,6 +10,6 @@ My name is Daniel R. Alvarenga, I'm a 16 years old system development student. I
 
 <div align="center">
   
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Alvarenga&theme=dark&hide_border=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Alvarenga&theme=react&hide_border=false)
   
 </div>
