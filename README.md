@@ -6,7 +6,7 @@ My name is Daniel R. Alvarenga, I'm a 16 years old system development student. I
 
 - 🚩 São Paulo - Brazil
 
-# My Streak Stats:
+# Streak Stats:
 
 <div align="center">
   
