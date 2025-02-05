@@ -4,7 +4,7 @@ My name is Daniel R. Alvarenga, I'm a 18 years old system developer and STEM guy
 
 - 📫 You can contact me through my email, danielralvs@proton.me or via my GitHub profile Daniel-Alvarenga.
 
-- 🚩 São Paulo - Brazil
+- 🚩 I'm from São Paulo - Brazil
 
 # Streak Stats:
 
