@@ -1,6 +1,6 @@
 # About Me:
 
-My name is Daniel R. Alvarenga, I'm a 18 years old system developer and STEM guy. I'm currently focused on learning how to construct neural networks, efficient sofwares and develop my skills in this area; in my free time I like to play [chess](https://chess.com/member/Sr-Alvarenga) and improve my tatics in it.
+My name is Daniel R. Alvarenga, I'm a 19 years old system developer and STEM guy. I'm currently focused on learning how to construct neural networks, efficient sofwares and develop my skills in this area; Currently, I work as a pricing and data analyst. In my free time I like to play [chess](https://chess.com/member/Sr-Alvarenga) and improve my tatics in it.
 
 - 📫 You can contact me through my email, danielralvs@proton.me or via my GitHub profile Daniel-Alvarenga.
 
